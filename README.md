@@ -14,7 +14,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
     - [Built with](#built-with)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -29,11 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![desktop preview](https://github.com/G-Gakii/Product-preview-card/blob/main/images/screenshots/Screenshot%202024-07-23%20at%2022.49.11.png)
+![mobile preview](https://github.com/G-Gakii/Product-preview-card/blob/main/images/screenshots/Screenshot%202024-07-23%20at%2022.49.45.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://product-preview-card-flame.vercel.app)
 - Live Site URL: (http://127.0.0.1:5500/index.html)
 
 ## My process
